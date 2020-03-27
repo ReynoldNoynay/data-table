@@ -28,8 +28,8 @@ table {
 
 @media only screen and (min0width: 60em) {
 
-.table-wrapper {
-  overflow: visible;
-}
+  .table-wrapper {
+    overflow: visible;
+  }
 
 }
